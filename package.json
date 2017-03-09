@@ -1,12 +1,12 @@
 {
-  "name": "xml2js",
+  "name": "mcwonka-xml2js",
   "description": "Simple XML to JavaScript object converter.",
   "keywords": [
     "xml",
     "json"
   ],
-  "homepage": "https://github.com/Leonidas-from-XIV/node-xml2js",
-  "version": "0.4.17",
+  "homepage": "https://github.com/mcwonka/node-xml2js",
+  "version": "0.4.17mc1",
   "author": "Marek Kubica <marek@xivilization.net> (https://xivilization.net)",
   "contributors": [
     "maqr <maqr.lollerskates@gmail.com> (https://github.com/maqr)",
